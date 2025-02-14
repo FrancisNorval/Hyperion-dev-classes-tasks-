@@ -1,0 +1,90 @@
+Pseudo.txt
+
+enter positive number value >0 
+ if the number value is zero "output the largest number inserted"
+
+re-enter positive number value >0
+ if the number value is zero "output the largest number inserted" 
+
+re-enter positive number value 0
+  if the number value is zero | yes "output the largest number value"
+
+
+
+Request the user to input their name with the variable of (first name)
+  If the user has input their first name (Francis) "then print out Francis Hello World" 
+
+
+
+
+read the input number 3
+   if integer "save number value"
+
+read input number 3
+   if integer "save number value"
+
+read input number 4
+   if integer "save number value"
+
+read input number 5
+   if integer "save number value"
+
+read input number 5
+   if integer "save number value"
+
+read the input number 3.5
+in not integer "ignore input number"
+
+identify the total number value
+ if total value is 5 "divide the sum of all integers by 5" 
+
+calculate the value of the arithmetic integers input 
+  if "3+3+4+5+5 = 20 then divide by 5" 
+
+output the calculated arithmetic value of integers
+
+  If calculated value is integer " output its value" 4
+
+
+
+input list of groceries
+ if input "read list contents" 
+
+read list contents 
+ if contents cheese, bread, tomato sauce, butter " display in alphabetical order"
+
+display list in alphabetical order
+ if ordered "butter, bread cheese, tomato sauce" 
+
+read list again of groceries again
+ if item is crossed out "remove from list and output the items left in alphabetical order "bread, cheese, tomato sauce" 
+
+
+
+
+
+ Start 
+
+Read the letters that are inputted 
+  enter the value for "x"
+
+Read the letters that are inputted 
+  enter the value for "y"
+
+Covert the letters input to numerical values 
+ take X input and covert to "float X"
+
+Covert the letters input to numerical values 
+ take Y input and covert to "float Y"
+ 
+calculate the value of the S input
+  if the value of the input is S it should be "S/2= A" 
+
+calculate the value of the input X x Y
+  if the letters input are "X x Y= P
+
+Output the calculated results 
+ print  "S"
+ print  "A"
+ print  "P"
+ 
