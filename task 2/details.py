@@ -1,0 +1,15 @@
+"""request user input(input name)
+    if user input is name print (This is user name)
+   request user input(user age)
+    if user input is age print (He is age old)
+   request user input(house number)
+     if user input is house number print (and lives at house number)
+   request user input(street name)
+     if user input is street name print ( on street name)
+"""
+
+user_input_name = input ("please enter your name: ")
+user_input_age = input  ("please enter your age: ") 
+user_input_house_number = input ("please enter your house number: ")
+user_input_street_name = input ("please enter your street name: ")
+print("This is "+ user_input_name + "." + "He is " + user_input_age +" years old and lives at house number "+ user_input_house_number + " on " + user_input_street_name + " Street.")
